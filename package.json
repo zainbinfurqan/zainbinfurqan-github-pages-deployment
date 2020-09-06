@@ -1,8 +1,8 @@
 {
   "name": "gh-pages-dev",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://zainbinfurqan.github.io/zainbinfurqan-github-pages-deployment",
+  "private": false,
+  "homepage": "http://zainbinfurqan.github.io/zainbinfurqan-github-pages-deployment",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

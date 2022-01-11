@@ -7,7 +7,8 @@ function App() {
   return (
     <Provider store={store}>
       <div className="App">
-        <ToDoApp />
+        <p>Hellow all github actions</p>
+        {/* <ToDoApp /> */}
       </div>
     </Provider>
   );

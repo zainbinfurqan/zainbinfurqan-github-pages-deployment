@@ -7,7 +7,7 @@ function App() {
   return (
     <Provider store={store}>
       <div className="App">
-        <p>Hellow all github actions</p>
+        <p>Hellow all github actions hoo</p>
         {/* <ToDoApp /> */}
       </div>
     </Provider>

@@ -6,11 +6,11 @@
 .pnp.js
 .github
 /.github
+/github
 # testing
 /coverage
 
 # production
-/build
 
 # misc
 .DS_Store

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53427666470507003b717c7d0dc1a859",
+    "revision": "76399ed18d5aa8b6f1d33dd30d8f176c",
     "url": "/zainbinfurqan-github-pages-deployment/index.html"
   },
   {
-    "revision": "5d48db542131c93ba406",
+    "revision": "fd51b21d566b06aa0928",
     "url": "/zainbinfurqan-github-pages-deployment/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zainbinfurqan-github-pages-deployment/static/js/2.590d83f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d48db542131c93ba406",
-    "url": "/zainbinfurqan-github-pages-deployment/static/js/main.cec21b62.chunk.js"
+    "revision": "fd51b21d566b06aa0928",
+    "url": "/zainbinfurqan-github-pages-deployment/static/js/main.9b44190a.chunk.js"
   },
   {
     "revision": "7188f2e86514b24fb32d",

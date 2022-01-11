@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/zainbinfurqan-github-pages-deployment/static/css/main.d1b05096.chunk.css",
-    "main.js": "/zainbinfurqan-github-pages-deployment/static/js/main.cec21b62.chunk.js",
-    "main.js.map": "/zainbinfurqan-github-pages-deployment/static/js/main.cec21b62.chunk.js.map",
+    "main.js": "/zainbinfurqan-github-pages-deployment/static/js/main.9b44190a.chunk.js",
+    "main.js.map": "/zainbinfurqan-github-pages-deployment/static/js/main.9b44190a.chunk.js.map",
     "runtime-main.js": "/zainbinfurqan-github-pages-deployment/static/js/runtime-main.302de773.js",
     "runtime-main.js.map": "/zainbinfurqan-github-pages-deployment/static/js/runtime-main.302de773.js.map",
     "static/js/2.590d83f8.chunk.js": "/zainbinfurqan-github-pages-deployment/static/js/2.590d83f8.chunk.js",
     "static/js/2.590d83f8.chunk.js.map": "/zainbinfurqan-github-pages-deployment/static/js/2.590d83f8.chunk.js.map",
     "index.html": "/zainbinfurqan-github-pages-deployment/index.html",
-    "precache-manifest.3b56483c20afa0669d92d6ce3f5e8bb7.js": "/zainbinfurqan-github-pages-deployment/precache-manifest.3b56483c20afa0669d92d6ce3f5e8bb7.js",
+    "precache-manifest.499df6b864369d6e4b58a7fe09ed9df3.js": "/zainbinfurqan-github-pages-deployment/precache-manifest.499df6b864369d6e4b58a7fe09ed9df3.js",
     "service-worker.js": "/zainbinfurqan-github-pages-deployment/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/zainbinfurqan-github-pages-deployment/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.590d83f8.chunk.js.LICENSE.txt": "/zainbinfurqan-github-pages-deployment/static/js/2.590d83f8.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.302de773.js",
     "static/js/2.590d83f8.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.cec21b62.chunk.js"
+    "static/js/main.9b44190a.chunk.js"
   ]
 }
